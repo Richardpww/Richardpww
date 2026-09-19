@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[[![Richard's GitHub stats](https://github-stats-extended.vercel.app/api?username=Richardpww&theme=synthwave&show_icons=true&commits_year=2026)](https://github.com/stats-organization/github-stats-extended)
+[[![Richard's GitHub stats](https://github-stats-extended.vercel.app/api?username=Richardpww&theme=ocean_dark&show_icons=true&commits_year=2026)](https://github.com/stats-organization/github-stats-extended)
